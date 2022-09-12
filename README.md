@@ -1,5 +1,6 @@
 # Gachon University student
-# 201837353 
+# mail: dsfnjdlwjdtjr12@naver.com
+#201837353 
 #major in Statistic
 #nice to meet you
 
