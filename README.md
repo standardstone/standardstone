@@ -1,4 +1,7 @@
-### Hi there 👋
+# Gachon University student
+# 201837353 
+#major in Statistic
+#nice to meet you
 
 <!--
 **standardstone/standardstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
