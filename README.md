@@ -50,7 +50,7 @@ opencv, dilb,face-recognition을 활용하여 영상,사진,웹캠에서 얼굴�
 
 
 ## 실행방법
-### image,
+### image
 -dlib,opencv,numpy,matplotlib 를 pip를 사용하여 설치해준다.
 
 
